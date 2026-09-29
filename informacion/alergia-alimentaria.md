@@ -16,4 +16,4 @@ Página dedicada a recopilar información sobre alergia alimentaria.
 
 Las fuentes utilizadas se incorporarán en esta sección.
 
-../README.md
+[Volver al índice](../README.md)
