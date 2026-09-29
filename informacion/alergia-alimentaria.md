@@ -62,6 +62,6 @@ Para evaluar la posibilidad de que un paciente presente alergia alimentaria, el 
 6. **Reproducibilidad del episodio**:
    * Indagar si la reacción se ha presentado en una única ocasión o si se repite cada vez que se ingiere el alimento en cuestión.
 
-💡 ¿Te gustaría que elabore un cuestionario detallado de preguntas clínicas estructuradas para que el agente de IA pueda guiar la entrevista con el paciente?
+
 
 [Volver al índice](../README.md)
