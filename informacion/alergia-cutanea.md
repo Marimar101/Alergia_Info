@@ -3,7 +3,7 @@
 
 ## Introducción
 
-Página dedicada a recopilar información sobre alergia farmacológica.
+Página dedicada a recopilar información sobre alergia cutánea.
 
 ## Contenido
 
