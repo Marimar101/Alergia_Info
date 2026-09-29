@@ -15,3 +15,5 @@ Página dedicada a recopilar información sobre alergia alimentaria.
 ## Fuentes
 
 Las fuentes utilizadas se incorporarán en esta sección.
+
+../README.md
