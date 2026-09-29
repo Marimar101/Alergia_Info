@@ -1,19 +1,34 @@
 # Alergia alimentaria
 
-## Introducción
+## Definición y conceptos generales
 
-Página dedicada a recopilar información sobre alergia alimentaria.
+## Epidemiología
 
-## Contenido
+## Etiología y alérgenos implicados
 
-- Conceptos generales
-- Alérgenos
-- Diagnóstico
-- Tratamiento
-- Recursos de interés
+## Manifestaciones clínicas
 
-## Fuentes
+## Diagnóstico
 
-Las fuentes utilizadas se incorporarán en esta sección.
+### Historia clínica
+
+### Pruebas diagnósticas
+
+### Diagnóstico diferencial
+
+## Tratamiento
+
+### Tratamiento del episodio agudo
+
+### Manejo a largo plazo
+
+## Prevención y seguimiento
+
+## Situaciones especiales
+
+## Recursos para profesionales
+
+## Bibliografía y fuentes
+
 
 [Volver al índice](../README.md)
