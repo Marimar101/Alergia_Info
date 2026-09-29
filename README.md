@@ -6,16 +6,12 @@ Repositorio público de información sobre alergias.
 
 Recopilar y organizar información y recursos de interés relacionados con las alergias.
 
+
 ## Contenido
 
-Este repositorio se encuentra actualmente en construcción.
-
-Próximamente incluirá:
-
-- Información general sobre alergias
+- informacion/alergia-alimentaria.md
 - Recursos de interés
 - Documentación
-- Enlaces a fuentes fiables
 
 ## Fuentes
 
